@@ -1,2 +1,1 @@
-# gittt-labbb
-Лабараторка 3
+# My Project
